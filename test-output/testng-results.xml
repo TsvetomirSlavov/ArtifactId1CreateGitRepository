@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42695" started-at="2016-05-03T07:18:24Z" finished-at="2016-05-03T07:19:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42695" started-at="2016-05-03T07:18:24Z" finished-at="2016-05-03T07:19:06Z">
+      <class name="newPackage.NoPOMClassTestLoginGuruBank">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:newPackage.NoPOMClassTestLoginGuruBank@16905e]" name="beforeTest" is-config="true" duration-ms="23811" started-at="2016-05-03T02:18:24Z" finished-at="2016-05-03T02:18:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testEasy()[pri:0, instance:newPackage.NoPOMClassTestLoginGuruBank@16905e]" name="testEasy" duration-ms="15547" started-at="2016-05-03T02:18:48Z" finished-at="2016-05-03T02:19:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEasy -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:newPackage.NoPOMClassTestLoginGuruBank@16905e]" name="afterTest" is-config="true" duration-ms="3311" started-at="2016-05-03T02:19:03Z" finished-at="2016-05-03T02:19:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- newPackage.NoPOMClassTestLoginGuruBank -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
